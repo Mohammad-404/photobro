@@ -1,0 +1,177 @@
+.hh{
+	text-align: center;
+	background-color: #191970;
+	padding:2px; 
+	color: white;
+	font-weight: bold;
+	font-family: arial;
+}
+
+
+.headers{
+	text-align: right;
+	margin: 10px;
+	padding-right: 103px;
+	padding: 5px;
+	border-bottom: 1px solid gray;
+}
+.headers a{
+	border-right: 1px solid black;
+	margin-left: 30px;
+	padding:3px;
+	padding-right: 15px;
+	text-decoration: none;
+	font-weight: bold;
+	font-family: arial;
+	color: gray;
+	font-size: 15px;
+}
+
+
+.bases{
+	padding:25px;
+
+}
+.map1{
+	display: inline-block;
+
+}
+
+.shit1{
+	margin-bottom:-50px;
+	float: right;
+
+}
+
+.shit1 a{
+	margin-left: 30px;
+	padding:3px;
+	padding-right: 15px;
+	text-decoration: none;
+	font-weight: bold;
+	font-family: arial;
+	color: gray;
+	font-size: 15px;
+	display: inline-block;
+}
+
+.ii img{
+	height: 600px;
+	width: 100%;
+	display: inline-block;
+}
+
+.iii{
+	margin: 40px;
+	padding: 10px;
+	text-align: center;
+}
+
+.iii button{
+	width: 33px;
+	padding: 10px;
+	padding-top: 22px;
+}
+.in{
+	border-radius: 3px 3px 3px 3px;
+	height: 30px;
+	width: 450px;
+	font-weight: bold;
+	font-size: 15px;
+	border-color: gray;
+}
+
+.lablll{
+	font-size: 35px;
+	font-weight: bold;
+	font-family: arial;
+	color: #696969;
+}
+
+.sad{
+	float:left; width: 36%; margin: 10px;padding-right:20px;
+}
+
+.sad2{
+	float:right; width: 36%; margin: 10px;
+}
+
+.sese p{
+	text-align: center;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: arial;
+	color: #A9A9A9;
+}
+
+table{
+	text-align: center;
+	padding:20px;
+}
+table tr td{
+	padding:10px;
+}
+
+.rtrt td{
+	font-size: 16px;
+	font-family: arial;
+	font-weight: bold;
+	color:#191970;
+}
+
+.toto{
+	margin: 20px;
+}
+
+.toto table{
+	width:100%;
+
+}
+
+.trtrtrtr th{
+	background-color: red;
+	padding-bottom: 15px;
+	padding-top: 10px;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: arial;
+	color: white;
+}
+
+.trtrtrtr th:hover{
+	background-color: green;
+}
+
+
+.footers{
+	padding-bottom: 290px;
+	background-color: #2F4F4F;
+}
+
+.footers table{
+	padding:20px;
+	padding-left: 120px;
+	text-align: left;
+	display: inline-block;
+}
+
+.footers table tr td{
+	padding:20px;
+	font-family: arial;
+	font-size:14px;
+	color: white;
+	font-weight: bold;
+}
+.ssssss{
+	border-bottom: 1px solid #FFFAF0;
+}
+
+.fooot{
+	background-color: black;
+	padding-bottom: 50px;
+}
+
+.fooot label{
+	margin:20px;
+	float: center;
+}
